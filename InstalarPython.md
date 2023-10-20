@@ -1,6 +1,6 @@
 # IABD
 
-##Intalar Python para Windows
+## Intalar Python para Windows
 
 Lo primero que debemos hacer es entrar en el terminal y comprobar si lo tenemos instalado. Deberemos que escribir Python y si lo tenemos instalado nos cambia a la opcion de la imagen que voy adjuntar y sino lo tenemos instalado lo que tendremos que hacer es entrar en la pagina web de Python y darle la opción de Downloads, https://www.python.org/downloads/ aqui te dejo la pagina web.
 
@@ -26,7 +26,7 @@ En esta imagen podemos obserbar que yo lo tenog instalado con la versión 3.12.
 
 5- Y con esto ya teneis como crear un environmet.
 
-##Vamos a instalar paquetes.
+## Vamos a instalar paquetes.
 
 1- Lo primero que debemos hacer si no estamos en un Environmet es entrar o crearlo, en los pasos anterior te explico como se han las dos cosas.
 
